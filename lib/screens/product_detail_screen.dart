@@ -16,3 +16,4 @@ class ProductDetailScreen extends StatelessWidget {
     );
   }
 }
+//189.Why State Management? And what is "State" and "State Management"?
